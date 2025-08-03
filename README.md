@@ -1,13 +1,9 @@
-<h1 align="center">Hey there 👋 I'm Rishit </h1>
-
-<h3 align="center">
-  A passionate 🔐 Blockchain & 🤖 AI Developer from India  
-</h3>
+<h1 align="center">Hey there 👋 I'm Rishit Garg</h1>
 
 <p align="center">
-  🚀 Final-Year ECE Student at Thapar Institute | 🔬 IIT Roorkee Research Intern <br>
-  🛰 Samsung PRISM Contributor | 💡 Machine Learning | 📦 Decentralized Systems | 📱 Android Reverse Engineering
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&center=true&vCenter=true&multiline=true&width=600&lines=A+passionate+Blockchain+%26+AI+Developer+from+India;Final+Year+ECE+@+Thapar+Institute;Research+Intern+at+IIT+Roorkee;Samsung+PRISM+Contributor+🚀" alt="Typing SVG" />
 </p>
+
 
 
 
