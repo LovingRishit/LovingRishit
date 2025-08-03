@@ -1,9 +1,14 @@
-<h1 align="center">Hey there 👋 I'm Rishit Garg</h1>
+<h1 align="center">Hey there 👋 I'm Rishit </h1>
 
 <h3 align="center">
-  🚀 ECE Final-Year Student | ML | Blockchain | Android Development <br>
-  🔬 Research Intern @ IIT Roorkee | 🛰 Samsung PRISM - Link Prediction
+  A passionate 🔐 Blockchain & 🤖 AI Developer from India  
 </h3>
+
+<p align="center">
+  🚀 Final-Year ECE Student at Thapar Institute | 🔬 IIT Roorkee Research Intern <br>
+  🛰 Samsung PRISM Contributor | 💡 Machine Learning | 📦 Decentralized Systems | 📱 Android Reverse Engineering
+</p>
+
 
 
 ---
