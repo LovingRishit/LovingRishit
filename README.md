@@ -1,8 +1,9 @@
 <h1 align="center">Hey there 👋 I'm Rishit Garg</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4500&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=70&lines=🚀+ECE+Final-Year+Student+%7C+ML+%7C+Blockchain+%7C+Android;🔬+Research+Intern+at+IIT+Roorkee;🛰️+Samsung+PRISM+Link+Prediction;💼+Ready+for+Tech+Roles+%7C+Always+Building!" alt="Typing Animation" />
-</p>
+<h3 align="center">
+  🚀 ECE Final-Year Student | ML | Blockchain | Android Development <br>
+  🔬 Research Intern @ IIT Roorkee | 🛰 Samsung PRISM - Link Prediction
+</h3>
 
 
 ---
