@@ -55,7 +55,6 @@
 
 ### 🔗 Blockchain & Security
 ![Solidity](https://img.shields.io/badge/solidity-363636?style=for-the-badge)
-![Truffle](https://img.shields.io/badge/truffle-5E3C60?style=for-the-badge)
 ![Web3.py](https://img.shields.io/badge/Web3.py-333333?style=for-the-badge)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge)
 
